@@ -1,0 +1,33 @@
+,PostalCode,LGA,Suburb,Infant,Parents,Income,Latitude,Longitude
+0,6112,Armadale,"Armadale, Ashendon, Bedfordale, Brookdale, Camillo, Champion Lakes, Forrestdale, Harrisdale, Haynes, Hilbert, Karragullen, Kelmscott, Mount Nasura, Mount Richon, Piara Waters, Roleystone, Seville Grove, Wungong",7850.0,28135.0,60165.0,-32.15,116.01
+1,6054,Bassendean,"Ashfield, Bassendean, Eden Hill",1084.0,4434.0,63884.0,-31.92,115.94
+2,6053,Bayswater,"Bayswater, Bedford, Embleton, Maylands, Morley, Noranda, Mount Lawley",4210.0,22078.0,61905.0,-31.92,115.91
+3,6104,Belmont,"Ascot, Belmont, Cloverdale, Redcliffe, Rivervale, Kewdale, Perth Airport",2767.0,15673.0,59662.0,-31.94,115.92
+4,6007,Cambridge,"City Beach, West Leederville, Floreat, Jolimont, Mount Claremont, Subiaco, Wembley Downs, Wembley",1503.0,6367.0,110802.0,-31.9342,115.7871
+5,6107,Canning,"Cannington, East Cannington, Ferndale, Lynwood, Parkwood, Queens Park, Riverton, Rossmoyne, Shelley, Willetton, Wilson, Bentley, Canning Vale, Leeming, St James, Welshpool",5433.0,30245.0,57454.0,-32.0396,115.9113
+6,6010,Claremont,"Claremont, Swanbourne",462.0,2453.0,114811.0,-31.98,115.78
+7,6010,Claremont,"Claremont, Swanbourne",462.0,2453.0,114811.0,-31.9842,115.77799999999999
+8,6164,Cockburn,"Atwell, Aubin Grove, Banjup, Beeliar, Bibra Lake, Cockburn Central, Coogee, Coolbellup, Hamilton Hill, Hammond Park, Henderson, Jandakot, Munster, North Coogee, North Lake, Rottnest Island, South Lake, Spearwood, Success, Treeby, Wattleup, Yangebup, Leeming",8157.0,34496.0,65721.0,-32.0669,115.6392
+9,6011,Cottesloe,"Cottesloe, Claremont",404.0,1956.0,181139.0,-32.0,115.76
+10,6158,East Fremantle,East Fremantle,372.0,1709.0,90549.0,-32.04,115.76
+11,6160,Fremantle,"Beaconsfield, Fremantle, Hilton, North Fremantle, O'Connor, Samson, South Fremantle, White Gum Valley",1724.0,8799.0,75401.0,-32.04,115.76
+12,6110,Gosnells,"Beckenham, Gosnells, Huntingdale, Kenwick, Langford, Maddington, Martin, Orange Grove, Southern River, Thornlie, Canning Vale",9149.0,38114.0,56059.0,-32.07,116.0
+13,6027,Joondalup,"Beldon, Burns Beach, Connolly, Craigie, Currambine, Duncraig, Edgewater, Greenwood, Heathridge, Hillarys, Iluka, Joondalup, Kallaroo, Kingsley, Kinross, Marmion, Mullaloo, Ocean Reef, Padbury, Sorrento, Warwick, Woodvale",9255.0,38146.0,68422.0,-31.78,115.76
+14,6076,Kalamunda,"Bickley, Canning Mills, Carmel, Forrestfield, Gooseberry Hill, Hacketts Gully, High Wycombe, Kalamunda, Lesmurdie, Maida Vale, Paulls Valley, Pickering Brook, Piesse Brook, Reservoir, Walliston, Wattle Grove, Kewdale",3629.0,14615.0,63566.0,-32.01,116.09
+15,6167,Kwinana,"Anketell, Bertram, Calista, Casuarina, Hope Valley, Kwinana Beach, Kwinana Town Centre, Leda, Mandogalup, Medina, Naval Base, Orelia, Parmelia, Postans, The Spectacles, Wandi, Wellard",3849.0,15466.0,60121.0,-32.2261,115.7764
+16,6156,Melville,"Alfred Cove, Applecross, Ardross, Attadale, Bateman, Bicton, Booragoon, Brentwood, Bull Creek, Kardinya, Melville, Mount Pleasant, Murdoch, Myaree, Palmyra, Willagee, Winthrop, Leeming",5316.0,25012.0,77593.0,-32.03,115.8
+17,6012,Mosman Park,Mosman Park,407.0,2223.0,128534.0,-32.01,115.76
+18,6073,Mundaring,"Bailup, Beechina, Boya, Chidlow, Darlington, Glen Forrest, Gorrie, Greenmount, Helena Valley, Hovea, Mahogany Creek, Mount Helena, Mundaring, Parkerville, Sawyers Valley, Stoneville, The Lakes, Wooroloo, Bellevue, Midvale, Swan View",1978.0,8872.0,65155.0,-31.9,116.17
+19,6390,Murray,Keralup,951.0,3583.0,62422.0,-32.6549,115.9468
+20,6009,Nedlands,"Dalkeith, Karrakatta, Floreat, Mount Claremont, Nedlands, Shenton Park, Swanbourne",1103.0,4942.0,147811.0,-31.98,115.81
+21,6011,Peppermint Grove,Peppermint Grove,47.0,343.0,236678.0,-32.0,115.76
+22,6001,Perth,"Northbridge, Crawley, East Perth, Perth City, West Perth",953.0,15534.0,80233.0,-31.99,115.76
+23,6168,Rockingham,"Baldivis, Cooloongup, East Rockingham, Golden Bay, Hillman, Garden Island, Karnup, Peron, Port Kennedy, Rockingham, Safety Bay, Secret Harbour, Shoalwater, Singleton, Waikiki, Warnbro, Keralup",9880.0,37847.0,65496.0,-32.3,115.76
+24,6125,Serpentine-Jarrahdale,"Byford, Cardup, Darling Downs, Hopeland, Jarrahdale, Karrakup, Keysbrook, Mardella, Mundijong, Oakford, Oldbury, Serpentine, Whitby",2772.0,9678.0,64583.0,-32.3492,115.9941
+25,6151,South Perth,"Como, Karawara, Manning, Salter Point, South Perth, Waterford, Kensington",2179.0,14345.0,81037.0,-31.99,115.88
+26,6021,Stirling,"Balcatta, Balga, Carine, Churchlands, Coolbinia, Dianella, Doubleview, Glendalough, Gwelup, Hamersley, Herdsman, Inglewood, Innaloo, Joondanna, Karrinyup, Menora, Mirrabooka, Nollamara, North Beach, Osborne Park, Scarborough, Stirling, Trigg, Tuart Hill, Watermans Bay, Westminster, Woodlands, Yokine, Mount Lawley, Wembley Downs, Wembley",14115.0,70939.0,68948.0,-31.86,115.82
+27,6008,Subiaco,"Daglish, Crawley, Jolimont, Nedlands, Shenton Park, Subiaco",924.0,5028.0,97656.0,-31.95,115.81
+28,6055,Swan,"Aveley, Ballajura, Baskerville, Beechboro, Belhus, Bennett Springs, Brabham, Brigadoon, Bullsbrook, Caversham, Cullacabardee, Dayton, Ellenbrook, Gidgegannup, Guildford, Hazelmere, Henley Brook, Herne Hill, Jane Brook, Kiara, Koongamia, Lexia, Lockridge, Malaga, Melaleuca, Middle Swan, Midland, Millendon, Red Hill, South Guildford, Stratton, The Vines, Upper Swan, Valley Ridge, Viveash, West Swan, Whiteman, Woodbridge, Bellevue, Midvale, Perth Airport, Swan View",11196.0,44218.0,60978.0,-31.7358,116.0887
+29,6100,Victoria Park,"Burswood, Carlisle, East Victoria Park, Lathlain, Victoria Park, Bentley, Kensington, St James, Welshpool",2184.0,15120.0,64580.0,-31.96,115.9
+30,6050,Vincent,"Highgate, Leederville, Mount Hawthorn, North Perth, East Perth, Mount Lawley, Perth City, West Perth",1949.0,15190.0,77146.0,-31.9319,115.8463
+31,6065,Wanneroo,"Alexander Heights, Alkimos, Ashby, Banksia Grove, Butler, Carabooda, Carramar, Clarkson, Darch, Eglinton, Girrawheen, Gnangara, Hocking, Jandabup, Jindalee, Koondoola, Landsdale, Madeley, Marangaroo, Mariginiup, Merriwa, Mindarie, Neerabup, Nowergup, Pearsall, Pinjar, Quinns Rocks, Ridgewood, Sinagra, Tamala Park, Tapping, Two Rocks, Wangara, Wanneroo, Yanchep, Woodvale",16083.0,61574.0,60631.0,-31.73,115.79
